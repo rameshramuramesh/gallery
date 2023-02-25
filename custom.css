@@ -1,0 +1,35 @@
+header
+{
+background-color:red;
+color:black;
+margin:0px;
+padding-top:10px;
+padding-bottom:10px;
+
+}
+nav{
+	background-color:gray;
+	padding:10px;
+	float:right;
+	width:100%;
+}
+@media any screen and (max-width:800px;)
+{
+	nav
+}
+ul,li{
+	font-family:roboto;
+	font-style:italic;
+	list-style-type:none;
+	text-decoration:none;
+display:flex;
+}
+href{
+	text-decoration:none;
+}
+div{
+	display:block;
+	position:absolute;
+	transform: scale(0.75);
+	
+}
